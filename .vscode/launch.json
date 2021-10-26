@@ -5,7 +5,7 @@
             "request": "launch",
             "type": "vscode-edge-devtools.debug",
             //"url":"http://localhost:8080"
-            "url": "file:///D:/GitCodingZone/EIPM_Marketing_Website/index.html" // Provide your project's url to finish configuring
+            "url": "file:///D:/GitCodingZone/EIPM_Project_Marketing_Website/index.html" // Provide your project's url to finish configuring
         }
     ]
 }
